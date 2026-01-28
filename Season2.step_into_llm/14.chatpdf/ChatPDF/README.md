@@ -33,7 +33,6 @@ This project has been updated to support MindSpore 2.6.0 and MindNLP 0.4.0. Key 
 - Migrating tensor operations to use `mindnlp.core.ops`.
 - Updating imports to align with the new MindNLP directory structure.
 - Ensuring compatibility with the latest `PeftModel` and `AutoModel` APIs.
-
 ## Usage
 
 1. Run the application:
