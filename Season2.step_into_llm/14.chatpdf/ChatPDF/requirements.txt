@@ -1,0 +1,9 @@
+mindspore>=2.6.0
+mindnlp>=0.4.0
+PyMuPDF
+ms2vec
+msimilarities
+loguru
+jieba
+gradio
+PyPDF2
